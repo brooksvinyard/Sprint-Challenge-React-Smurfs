@@ -16,8 +16,8 @@ h1 {
 
 .Smurf {
     background-color: #0034B9;
-    border: 1px solid darkgrey;
-    box-shadow: 0px 2px 20px 2px darkgrey;
+    border: 1px solid #459be0;
+    box-shadow: 0px 2px 20px 2px #459be0;
     border-radius: 5px;
     width: 150px;
     height: 150px;
